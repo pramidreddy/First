@@ -1,4 +1,3 @@
 This is my first text file.
-Followed by second try
+edited by second editor
 
-pramid reddy
